@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00cf218c-2e84-4bb0-aaaa-c9b2b6507986" name="Changes" comment="Start project">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FizzBuzzTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,20 +39,79 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Elena/IdeaProjects/Java_beginners_05"
+    "last_opened_file_path": "C:/Users/Elena/Documents/Git/Java_Test_Project_05",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="MainCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainCode" />
+  <component name="RunManager" selected="TestNG.FizzBuzzTest">
+    <configuration name="FizzBuzzTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Java_Test_Project_05" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FizzBuzzTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzzTest.testStartGreaterThanEnd_Negative (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Java_Test_Project_05" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FizzBuzzTest" />
+      <option name="METHOD_NAME" value="testStartGreaterThanEnd_Negative" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzzTest.testStartGreaterThanEnd_Negative" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Java_Test_Project_05" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FizzBuzzTest" />
+      <option name="METHOD_NAME" value="testStartGreaterThanEnd_Negative" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzzTest.testStartLessThanEnd_HappyPathNegativeNumbers (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Java_Test_Project_05" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FizzBuzzTest" />
+      <option name="METHOD_NAME" value="testStartLessThanEnd_HappyPathNegativeNumbers" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzzTest.testStartLessThanEnd_HappyPathNegativeNumbers" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Java_Test_Project_05" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FizzBuzzTest" />
+      <option name="METHOD_NAME" value="testStartLessThanEnd_HappyPathNegativeNumbers" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainCode" />
+        <item itemvalue="TestNG.FizzBuzzTest" />
+        <item itemvalue="TestNG.FizzBuzzTest.testStartGreaterThanEnd_Negative (1)" />
+        <item itemvalue="TestNG.FizzBuzzTest.testStartGreaterThanEnd_Negative" />
+        <item itemvalue="TestNG.FizzBuzzTest.testStartLessThanEnd_HappyPathNegativeNumbers" />
+        <item itemvalue="TestNG.FizzBuzzTest.testStartLessThanEnd_HappyPathNegativeNumbers (1)" />
       </list>
     </recent_temporary>
   </component>
