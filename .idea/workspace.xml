@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00cf218c-2e84-4bb0-aaaa-c9b2b6507986" name="Changes" comment="Start project">
+    <list default="true" id="00cf218c-2e84-4bb0-aaaa-c9b2b6507986" name="Changes" comment="Chenges HW-8 part 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AreNumbersEqual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AreNumbersEqual.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BiggerValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BiggerValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GoodNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GoodNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/IsPositiveNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IsPositiveNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OddEven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OddIndices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OddIndices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SumArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SumArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/project_utils/Helpers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project_utils/Helpers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/AreNumbersEqualTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AreNumbersEqualTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BiggerValueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BiggerValueTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/GoodNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GoodNumberTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/IsPositiveNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/IsPositiveNumberTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/OddEvenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OddEvenTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/OddIndicesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OddIndicesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SumArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SumArrayTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666017699654</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Chenges HW-8 part 1">
+      <created>1666523892623</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666523892623</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,6 +152,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Start project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start project" />
+    <MESSAGE value="Chenges HW-8 part 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chenges HW-8 part 1" />
   </component>
 </project>
