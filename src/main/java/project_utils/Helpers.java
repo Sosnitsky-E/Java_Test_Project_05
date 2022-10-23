@@ -1,2 +1,4 @@
-package project_utils;public class Helpers {
+package project_utils;
+
+public class Helpers {
 }

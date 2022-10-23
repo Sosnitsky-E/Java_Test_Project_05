@@ -5,9 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00cf218c-2e84-4bb0-aaaa-c9b2b6507986" name="Changes" comment="Start project">
-      <change afterPath="$PROJECT_DIR$/src/main/java/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FizzBuzzTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AreNumbersEqual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AreNumbersEqual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BiggerValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BiggerValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GoodNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GoodNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IsPositiveNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IsPositiveNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OddEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OddIndices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OddIndices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SumArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SumArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/project_utils/Helpers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project_utils/Helpers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AreNumbersEqualTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AreNumbersEqualTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BiggerValueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BiggerValueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/GoodNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GoodNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/IsPositiveNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/IsPositiveNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/OddEvenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OddEvenTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/OddIndicesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OddIndicesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SumArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SumArrayTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,23 +46,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Elena/Documents/Git/Java_Test_Project_05",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Elena/Documents/Git/Java_Test_Project_05&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="TestNG.FizzBuzzTest">
-    <configuration name="FizzBuzzTest" type="TestNG" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="TestNG.GoodNumberTest">
+    <configuration name="GoodNumberTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Java_Test_Project_05" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FizzBuzzTest" />
+      <option name="MAIN_CLASS_NAME" value="GoodNumberTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -57,11 +70,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FizzBuzzTest.testStartGreaterThanEnd_Negative (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="GoodNumberTest.testNumberEqualsZero" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Java_Test_Project_05" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FizzBuzzTest" />
-      <option name="METHOD_NAME" value="testStartGreaterThanEnd_Negative" />
+      <option name="MAIN_CLASS_NAME" value="GoodNumberTest" />
+      <option name="METHOD_NAME" value="testNumberEqualsZero" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -69,11 +82,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FizzBuzzTest.testStartGreaterThanEnd_Negative" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="GoodNumberTest.testNumberMultiple9" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Java_Test_Project_05" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FizzBuzzTest" />
-      <option name="METHOD_NAME" value="testStartGreaterThanEnd_Negative" />
+      <option name="MAIN_CLASS_NAME" value="GoodNumberTest" />
+      <option name="METHOD_NAME" value="testNumberMultiple9" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -81,11 +94,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FizzBuzzTest.testStartLessThanEnd_HappyPathNegativeNumbers (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="GoodNumberTest.testNumberMultipleOnly11" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Java_Test_Project_05" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FizzBuzzTest" />
-      <option name="METHOD_NAME" value="testStartLessThanEnd_HappyPathNegativeNumbers" />
+      <option name="MAIN_CLASS_NAME" value="GoodNumberTest" />
+      <option name="METHOD_NAME" value="testNumberMultipleOnly11" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -93,11 +106,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FizzBuzzTest.testStartLessThanEnd_HappyPathNegativeNumbers" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="GoodNumberTest.testNumberNotSatisfyConditionsAbov" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Java_Test_Project_05" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FizzBuzzTest" />
-      <option name="METHOD_NAME" value="testStartLessThanEnd_HappyPathNegativeNumbers" />
+      <option name="MAIN_CLASS_NAME" value="GoodNumberTest" />
+      <option name="METHOD_NAME" value="testNumberNotSatisfyConditionsAbov" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -107,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.FizzBuzzTest" />
-        <item itemvalue="TestNG.FizzBuzzTest.testStartGreaterThanEnd_Negative (1)" />
-        <item itemvalue="TestNG.FizzBuzzTest.testStartGreaterThanEnd_Negative" />
-        <item itemvalue="TestNG.FizzBuzzTest.testStartLessThanEnd_HappyPathNegativeNumbers" />
-        <item itemvalue="TestNG.FizzBuzzTest.testStartLessThanEnd_HappyPathNegativeNumbers (1)" />
+        <item itemvalue="TestNG.GoodNumberTest" />
+        <item itemvalue="TestNG.GoodNumberTest.testNumberEqualsZero" />
+        <item itemvalue="TestNG.GoodNumberTest.testNumberNotSatisfyConditionsAbov" />
+        <item itemvalue="TestNG.GoodNumberTest.testNumberMultipleOnly11" />
+        <item itemvalue="TestNG.GoodNumberTest.testNumberMultiple9" />
       </list>
     </recent_temporary>
   </component>
