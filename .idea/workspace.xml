@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00cf218c-2e84-4bb0-aaaa-c9b2b6507986" name="Changes" comment="Chenges HW-8 part 1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/CreateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CreateArrayTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,11 +45,11 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.GoodNumberTest">
-    <configuration name="GoodNumberTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.CreateArrayTest.testMultiWordSentence">
+    <configuration name="CreateArrayTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Java_Test_Project_05" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="GoodNumberTest" />
+      <option name="MAIN_CLASS_NAME" value="CreateArrayTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -55,11 +57,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoodNumberTest.testNumberEqualsZero" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CreateArrayTest.testMultiWordSentence" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Java_Test_Project_05" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="GoodNumberTest" />
-      <option name="METHOD_NAME" value="testNumberEqualsZero" />
+      <option name="MAIN_CLASS_NAME" value="CreateArrayTest" />
+      <option name="METHOD_NAME" value="testMultiWordSentence" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -67,11 +69,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoodNumberTest.testNumberMultiple9" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CreateArrayTest.testOneWordSentenceWithSpaceBeginningEnd" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Java_Test_Project_05" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="GoodNumberTest" />
-      <option name="METHOD_NAME" value="testNumberMultiple9" />
+      <option name="MAIN_CLASS_NAME" value="CreateArrayTest" />
+      <option name="METHOD_NAME" value="testOneWordSentenceWithSpaceBeginningEnd" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -79,11 +81,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoodNumberTest.testNumberMultipleOnly11" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CreateArrayTest.testStringIsEmpty_Negative" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Java_Test_Project_05" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="GoodNumberTest" />
-      <option name="METHOD_NAME" value="testNumberMultipleOnly11" />
+      <option name="MAIN_CLASS_NAME" value="CreateArrayTest" />
+      <option name="METHOD_NAME" value="testStringIsEmpty_Negative" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -91,11 +93,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoodNumberTest.testNumberNotSatisfyConditionsAbov" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CreateArrayTest.testStringIsEmpty_Negative" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Java_Test_Project_05" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="GoodNumberTest" />
-      <option name="METHOD_NAME" value="testNumberNotSatisfyConditionsAbov" />
+      <option name="MAIN_CLASS_NAME" value="CreateArrayTest" />
+      <option name="METHOD_NAME" value="testStringIsEmpty_Negative" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateArrayTest.testStringOneSpace_Negative" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Java_Test_Project_05" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CreateArrayTest" />
+      <option name="METHOD_NAME" value="testStringOneSpace_Negative" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -105,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.GoodNumberTest" />
-        <item itemvalue="TestNG.GoodNumberTest.testNumberEqualsZero" />
-        <item itemvalue="TestNG.GoodNumberTest.testNumberNotSatisfyConditionsAbov" />
-        <item itemvalue="TestNG.GoodNumberTest.testNumberMultipleOnly11" />
-        <item itemvalue="TestNG.GoodNumberTest.testNumberMultiple9" />
+        <item itemvalue="TestNG.CreateArrayTest.testMultiWordSentence" />
+        <item itemvalue="TestNG.CreateArrayTest" />
+        <item itemvalue="TestNG.CreateArrayTest.testStringOneSpace_Negative" />
+        <item itemvalue="TestNG.CreateArrayTest.testStringIsEmpty_Negative" />
+        <item itemvalue="TestNG.CreateArrayTest.testStringIsEmpty_Negative" />
       </list>
     </recent_temporary>
   </component>
