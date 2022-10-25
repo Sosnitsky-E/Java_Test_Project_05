@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00cf218c-2e84-4bb0-aaaa-c9b2b6507986" name="Changes" comment="Start project">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="00cf218c-2e84-4bb0-aaaa-c9b2b6507986" name="Changes" comment="Chenges HW-8 part 1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ManipulationsWithArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OddEvenValuesInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ManipulationsWithArraysTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/OddEvenValuesInArrayTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,26 +35,98 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Elena/IdeaProjects/Java_beginners_05"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Elena/Documents/Git/Java_Test_Project_05&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="MainCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainCode" />
+}</component>
+  <component name="RunManager" selected="TestNG.OddEvenValuesInArrayTest.testNegativeArrayIsEmpty">
+    <configuration name="CreateArrayTest.testStringIsEmpty_Negative" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Java_Test_Project_05" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CreateArrayTest" />
+      <option name="METHOD_NAME" value="testStringIsEmpty_Negative" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OddEvenValuesInArrayTest.testCountOddValuesInArrayEmpty" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Java_Test_Project_05" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OddEvenValuesInArrayTest" />
+      <option name="METHOD_NAME" value="testCountOddValuesInArrayEmpty" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OddEvenValuesInArrayTest.testNegativeArrayIsEmpty" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Java_Test_Project_05" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OddEvenValuesInArrayTest" />
+      <option name="METHOD_NAME" value="testNegativeArrayIsEmpty" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OddEvenValuesInArrayTest.testNegativeOneOfValueEqualNumber" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Java_Test_Project_05" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OddEvenValuesInArrayTest" />
+      <option name="METHOD_NAME" value="testNegativeOneOfValueEqualNumber" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OddEvenValuesInArrayTest.testValuesNegativeGreaterThanNumber" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Java_Test_Project_05" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OddEvenValuesInArrayTest" />
+      <option name="METHOD_NAME" value="testValuesNegativeGreaterThanNumber" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OddEvenValuesInArrayTest.testValuesPositiveGreaterThanNumber" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Java_Test_Project_05" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OddEvenValuesInArrayTest" />
+      <option name="METHOD_NAME" value="testValuesPositiveGreaterThanNumber" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainCode" />
+        <item itemvalue="TestNG.OddEvenValuesInArrayTest.testNegativeArrayIsEmpty" />
+        <item itemvalue="TestNG.OddEvenValuesInArrayTest.testNegativeOneOfValueEqualNumber" />
+        <item itemvalue="TestNG.OddEvenValuesInArrayTest.testValuesNegativeGreaterThanNumber" />
+        <item itemvalue="TestNG.OddEvenValuesInArrayTest.testValuesPositiveGreaterThanNumber" />
+        <item itemvalue="TestNG.OddEvenValuesInArrayTest.testCountOddValuesInArrayEmpty" />
       </list>
     </recent_temporary>
   </component>
@@ -71,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666017699654</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Chenges HW-8 part 1">
+      <created>1666523892623</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666523892623</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,7 +161,44 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
@@ -87,6 +206,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Start project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start project" />
+    <MESSAGE value="Chenges HW-8 part 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chenges HW-8 part 1" />
   </component>
 </project>
