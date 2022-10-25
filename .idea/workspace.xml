@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00cf218c-2e84-4bb0-aaaa-c9b2b6507986" name="Changes" comment="Chenges HW-8 part 1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CreateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CreateArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ManipulationsWithArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OddEvenValuesInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ManipulationsWithArraysTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/OddEvenValuesInArrayTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,42 +47,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.CreateArrayTest.testMultiWordSentence">
-    <configuration name="CreateArrayTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Java_Test_Project_05" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CreateArrayTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CreateArrayTest.testMultiWordSentence" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Java_Test_Project_05" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CreateArrayTest" />
-      <option name="METHOD_NAME" value="testMultiWordSentence" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CreateArrayTest.testOneWordSentenceWithSpaceBeginningEnd" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Java_Test_Project_05" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CreateArrayTest" />
-      <option name="METHOD_NAME" value="testOneWordSentenceWithSpaceBeginningEnd" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.OddEvenValuesInArrayTest.testNegativeArrayIsEmpty">
     <configuration name="CreateArrayTest.testStringIsEmpty_Negative" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Java_Test_Project_05" />
       <option name="PACKAGE_NAME" value="" />
@@ -93,11 +60,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreateArrayTest.testStringIsEmpty_Negative" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="OddEvenValuesInArrayTest.testCountOddValuesInArrayEmpty" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Java_Test_Project_05" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CreateArrayTest" />
-      <option name="METHOD_NAME" value="testStringIsEmpty_Negative" />
+      <option name="MAIN_CLASS_NAME" value="OddEvenValuesInArrayTest" />
+      <option name="METHOD_NAME" value="testCountOddValuesInArrayEmpty" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -105,11 +72,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreateArrayTest.testStringOneSpace_Negative" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="OddEvenValuesInArrayTest.testNegativeArrayIsEmpty" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Java_Test_Project_05" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CreateArrayTest" />
-      <option name="METHOD_NAME" value="testStringOneSpace_Negative" />
+      <option name="MAIN_CLASS_NAME" value="OddEvenValuesInArrayTest" />
+      <option name="METHOD_NAME" value="testNegativeArrayIsEmpty" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OddEvenValuesInArrayTest.testNegativeOneOfValueEqualNumber" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Java_Test_Project_05" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OddEvenValuesInArrayTest" />
+      <option name="METHOD_NAME" value="testNegativeOneOfValueEqualNumber" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OddEvenValuesInArrayTest.testValuesNegativeGreaterThanNumber" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Java_Test_Project_05" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OddEvenValuesInArrayTest" />
+      <option name="METHOD_NAME" value="testValuesNegativeGreaterThanNumber" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OddEvenValuesInArrayTest.testValuesPositiveGreaterThanNumber" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Java_Test_Project_05" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OddEvenValuesInArrayTest" />
+      <option name="METHOD_NAME" value="testValuesPositiveGreaterThanNumber" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -119,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.CreateArrayTest.testMultiWordSentence" />
-        <item itemvalue="TestNG.CreateArrayTest" />
-        <item itemvalue="TestNG.CreateArrayTest.testStringOneSpace_Negative" />
-        <item itemvalue="TestNG.CreateArrayTest.testStringIsEmpty_Negative" />
-        <item itemvalue="TestNG.CreateArrayTest.testStringIsEmpty_Negative" />
+        <item itemvalue="TestNG.OddEvenValuesInArrayTest.testNegativeArrayIsEmpty" />
+        <item itemvalue="TestNG.OddEvenValuesInArrayTest.testNegativeOneOfValueEqualNumber" />
+        <item itemvalue="TestNG.OddEvenValuesInArrayTest.testValuesNegativeGreaterThanNumber" />
+        <item itemvalue="TestNG.OddEvenValuesInArrayTest.testValuesPositiveGreaterThanNumber" />
+        <item itemvalue="TestNG.OddEvenValuesInArrayTest.testCountOddValuesInArrayEmpty" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +161,44 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
